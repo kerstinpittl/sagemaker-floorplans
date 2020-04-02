@@ -1,5 +1,5 @@
 attrs==19.1.0
-bleach==3.1.0
+bleach==3.1.4
 cloudpickle==0.8.0
 Cython==0.29.6
 dask==1.1.4
