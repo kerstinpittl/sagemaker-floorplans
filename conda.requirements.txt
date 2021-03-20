@@ -7,7 +7,7 @@ defusedxml==0.5.0
 entrypoints==0.3
 idna==2.7
 jedi==0.13.3
-Jinja2==2.10
+Jinja2==2.11.3
 joblib==0.13.2
 jsonschema==3.0.1
 pyparsing==2.3.1
